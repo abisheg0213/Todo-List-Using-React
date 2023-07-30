@@ -12,7 +12,7 @@ function Note(props) {
           props.del(props.index);
         }}
       >
-        DELETE
+        COMPLETE
       </button>
     </div>
   );
